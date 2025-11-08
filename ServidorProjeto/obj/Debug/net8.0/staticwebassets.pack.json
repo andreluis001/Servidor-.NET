@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads.bkp",
+      "PackagePath": "staticwebassets\\uploads.bkp"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf",
+      "PackagePath": "staticwebassets\\uploads\\API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Andre\\OneDrive\\Documentos\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads\\Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ServidorProjeto.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ServidorProjeto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ServidorProjeto.props",
+      "PackagePath": "build\\ServidorProjeto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ServidorProjeto.props",
+      "PackagePath": "buildMultiTargeting\\ServidorProjeto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ServidorProjeto.props",
+      "PackagePath": "buildTransitive\\ServidorProjeto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
