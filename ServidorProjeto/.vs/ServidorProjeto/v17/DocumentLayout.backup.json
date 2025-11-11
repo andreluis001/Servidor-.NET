@@ -1,0 +1,1242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\pagamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\dto\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\dto\\pagamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\transacaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\transacaodoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\transacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\transacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\transacaodoacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\transacaodoacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\ouvidoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\ouvidoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\dadosbancarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\dadosbancarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\tipoatvmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\tipoatvmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\dto\\resetsenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\dto\\resetsenhadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\ouvidoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\ouvidoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\configurations\\mercadopagooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\configurations\\mercadopagooptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\mercadopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\mercadopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\transparenciamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\transparenciamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\iusuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\iusuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\usuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\usuariorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\transparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\transparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\dto\\transparenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\dto\\transparenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\transparenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\transparenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251110044657_atividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251110044657_atividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\atividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\atividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\sistemabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\sistemabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\atividadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\atividademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\atividademap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\atividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\atividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\itransparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\itransparenciarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175436_InitialSistemaBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105144515_InitialDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WebhookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\Transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServidorProjeto\\DTO\\Transparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\doa\u00E7\u00E3ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\doa\u00E7\u00E3ocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\dto\\atividadesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\dto\\atividadesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251110012157_atualizacaocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251110012157_atualizacaocontato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\contatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\ouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\ouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\controllers\\arquivopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\controllers\\arquivopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\arquivopdfrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\arquivopdfrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\ouvidoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\ouvidoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\tipoatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\tipoatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\administracaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\administracaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\contatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\contatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251108042422_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251108042422_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\iouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\iouvidoriarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\dto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\dto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\helpers\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\helpers\\cryptohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\icontatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\icontatorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\tipoatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\tipoatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251107183145_contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251107183145_contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\iatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\iatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\iarquivopdfrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\iarquivopdfrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251106180404_corrigetransparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251106180404_corrigetransparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\repositories\\interfaces\\itipoatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\repositories\\interfaces\\itipoatividaderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251105175528_initialsistemabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251105175528_initialsistemabd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\arquivopdfmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\arquivopdfmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\services\\transparenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\services\\transparenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\arquivospdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\arquivospdf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\doacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\doacaomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\data\\map\\doadormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\data\\map\\doadormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\doador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\doacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\models\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\models\\administracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\enums\\statustarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\enums\\statustarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|c:\\users\\enzo\\desktop\\servidorprojeto\\servidorprojeto\\migrations\\20251110044210_trasnparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52084D5A-1E7B-4D46-8B3B-27B0E8541FB8}|ServidorProjeto\\ServidorProjeto.csproj|solutionrelative:servidorprojeto\\migrations\\20251110044210_trasnparencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagamentoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\PagamentoDto.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\PagamentoDto.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\PagamentoDto.cs*",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\PagamentoDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:40:35.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\PagamentoController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\PagamentoController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\PagamentoController.cs*",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\PagamentoController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:11:06.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetSenhaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\ResetSenhaDTO.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\ResetSenhaDTO.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\ResetSenhaDTO.cs",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\ResetSenhaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:36:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251110044657_Atividades.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110044657_Atividades.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251110044657_Atividades.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110044657_Atividades.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251110044657_Atividades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:46:57.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITransparenciaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\ITransparenciaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:03:53.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TransparenciaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\TransparenciaRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\TransparenciaRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\TransparenciaRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\TransparenciaRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwDoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:15:51.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Transparencia.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Transparencia.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Transparencia.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Transparencia.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Transparencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:44:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransparenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\TransparenciaController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\TransparenciaController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\TransparenciaController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\TransparenciaController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:39:36.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Program.cs",
+              "RelativeToolTip": "ServidorProjeto\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:46:36.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Atividades.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Atividades.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Atividades.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Atividades.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Atividades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:32:27.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AtividadeMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\AtividadeMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\AtividadeMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\AtividadeMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\AtividadeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:42:12.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AtividadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\AtividadeController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\AtividadeController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\AtividadeController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\AtividadeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:41:47.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SistemaBD.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\SistemaBD.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\SistemaBD.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\SistemaBD.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\SistemaBD.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:38:26.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AtividadeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\AtividadeRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\AtividadeRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\AtividadeRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\AtividadeRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:21:57.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransparenciaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\TransparenciaDTO.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\TransparenciaDTO.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\TransparenciaDTO.cs",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\TransparenciaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:13:59.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContatoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\ContatoMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\ContatoMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\ContatoMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\ContatoMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:44:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAowKgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:06:05.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20251110044210_Trasnparencia.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110044210_Trasnparencia.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251110044210_Trasnparencia.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110044210_Trasnparencia.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251110044210_Trasnparencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:42:10.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransparenciaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransparenciaMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\TransparenciaMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransparenciaMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\TransparenciaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:06:45.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:35:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251110012157_Atualizacaocontato.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110012157_Atualizacaocontato.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251110012157_Atualizacaocontato.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251110012157_Atualizacaocontato.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251110012157_Atualizacaocontato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T01:21:58.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsuarioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IUsuarioRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\IUsuarioRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IUsuarioRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\IUsuarioRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:03:27.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\UsuarioRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\UsuarioRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\UsuarioRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\UsuarioRepo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T22:17:48.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Contato.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:10:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AtividadesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\AtividadesDTO.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\AtividadesDTO.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\AtividadesDTO.cs",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\AtividadesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:04:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Doa\u00E7\u00E3oController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\Doa\u00E7\u00E3oController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\Doa\u00E7\u00E3oController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\Doa\u00E7\u00E3oController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\Doa\u00E7\u00E3oController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:52:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:21:54.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MercadoPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\MercadoPagoController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\MercadoPagoController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\MercadoPagoController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\MercadoPagoController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:16:56.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OuvidoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\OuvidoriaController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\OuvidoriaController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\OuvidoriaController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\OuvidoriaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:49:21.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OuvidoriaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\OuvidoriaRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\OuvidoriaRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\OuvidoriaRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\OuvidoriaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:50:55.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ArquivoPdfController.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\ArquivoPdfController.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Controllers\\ArquivoPdfController.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Controllers\\ArquivoPdfController.cs",
+              "RelativeToolTip": "ServidorProjeto\\Controllers\\ArquivoPdfController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:42:04.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ArquivoPdfRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\ArquivoPdfRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\ArquivoPdfRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\ArquivoPdfRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\ArquivoPdfRepo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:23:58.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OuvidoriaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\OuvidoriaMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\OuvidoriaMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\OuvidoriaMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\OuvidoriaMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:16:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TipoAtividadeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\TipoAtividadeRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\TipoAtividadeRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\TipoAtividadeRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\TipoAtividadeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:29:24.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdministracaoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\AdministracaoMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\AdministracaoMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\AdministracaoMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\AdministracaoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:14:17.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ContatoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\ContatoRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\ContatoRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\ContatoRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\ContatoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:38:55.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20251108042422_Final.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251108042422_Final.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251108042422_Final.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251108042422_Final.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251108042422_Final.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:24:22.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IOuvidoriaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\IOuvidoriaRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:50:15.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CriarUsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\CriarUsuarioDTO.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\CriarUsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\CriarUsuarioDTO.cs",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\CriarUsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T03:38:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CryptoHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Helpers\\CryptoHelper.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Helpers\\CryptoHelper.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Helpers\\CryptoHelper.cs",
+              "RelativeToolTip": "ServidorProjeto\\Helpers\\CryptoHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:08:55.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\usuario.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\usuario.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\usuario.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:38:18.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ouvidoria.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Ouvidoria.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Ouvidoria.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Ouvidoria.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Ouvidoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:11:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IContatoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IContatoRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\IContatoRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IContatoRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\IContatoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:36:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TipoAtividade.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\TipoAtividade.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\TipoAtividade.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\TipoAtividade.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\TipoAtividade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:31:19.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251107183145_Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251107183145_Contato.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251107183145_Contato.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251107183145_Contato.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251107183145_Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T18:31:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IAtividadeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IAtividadeRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\IAtividadeRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IAtividadeRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\IAtividadeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:08:24.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IArquivoPdfRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IArquivoPdfRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\IArquivoPdfRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\IArquivoPdfRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\IArquivoPdfRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:08:47.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20251106180404_CorrigeTransparencia.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251106180404_CorrigeTransparencia.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251106180404_CorrigeTransparencia.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251106180404_CorrigeTransparencia.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251106180404_CorrigeTransparencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:04:04.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Transparencia.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\Transparencia.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\DTO\\Transparencia.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\DTO\\Transparencia.cs",
+              "RelativeToolTip": "ServidorProjeto\\DTO\\Transparencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:13:20.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\appsettings.json",
+              "RelativeDocumentMoniker": "ServidorProjeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\appsettings.json",
+              "RelativeToolTip": "ServidorProjeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T20:17:27.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "uploads",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\wwwroot\\uploads",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-05T19:23:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoAtvMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TipoAtvMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\TipoAtvMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TipoAtvMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\TipoAtvMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:09.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransacaoDoacaoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransacaoDoacaoMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\TransacaoDoacaoMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransacaoDoacaoMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\TransacaoDoacaoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:43:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "list.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\list.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\list.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\list.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\list.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:03:46.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ITipoAtividadeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\ITipoAtividadeRepo.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\repositories\\Interfaces\\ITipoAtividadeRepo.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\repositories\\Interfaces\\ITipoAtividadeRepo.cs",
+              "RelativeToolTip": "ServidorProjeto\\repositories\\Interfaces\\ITipoAtividadeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:03:22.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:06:06.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Controllers\\WebhookController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:32:55.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20251105175528_InitialSistemaBD.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175528_InitialSistemaBD.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Migrations\\20251105175528_InitialSistemaBD.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175528_InitialSistemaBD.cs",
+              "RelativeToolTip": "ServidorProjeto\\Migrations\\20251105175528_InitialSistemaBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:55:28.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20251105175436_InitialSistemaBD.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175436_InitialSistemaBD.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175436_InitialSistemaBD.cs",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175436_InitialSistemaBD.cs",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105175436_InitialSistemaBD.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:54:36.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ArquivoPdfMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\ArquivoPdfMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\ArquivoPdfMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\ArquivoPdfMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\ArquivoPdfMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:12:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "TransparenciaService.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Services\\TransparenciaService.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Services\\TransparenciaService.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Services\\TransparenciaService.cs",
+              "RelativeToolTip": "ServidorProjeto\\Services\\TransparenciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:21:23.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Arquivospdf.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Arquivospdf.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Arquivospdf.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Arquivospdf.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Arquivospdf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:32:03.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransacaoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransacaoMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\TransacaoMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\TransacaoMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\TransacaoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:20:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DoacaoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\DoacaoMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\DoacaoMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\DoacaoMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\DoacaoMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:16:32.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\UsuarioMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\UsuarioMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:03:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DoadorMap.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\DoadorMap.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Data\\Map\\DoadorMap.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Data\\Map\\DoadorMap.cs",
+              "RelativeToolTip": "ServidorProjeto\\Data\\Map\\DoadorMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:13:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransacaoDoacao.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\TransacaoDoacao.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\TransacaoDoacao.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\TransacaoDoacao.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\TransacaoDoacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:34:04.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Doador.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Doador.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Doador.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Doador.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Doador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:31:13.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Doacao.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Doacao.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Doacao.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Doacao.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Doacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:26:36.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DadosBancarios.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\DadosBancarios.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\DadosBancarios.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\DadosBancarios.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\DadosBancarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:31:03.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Administracao.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Administracao.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Models\\Administracao.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Models\\Administracao.cs",
+              "RelativeToolTip": "ServidorProjeto\\Models\\Administracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T16:31:51.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:09:34.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251105144515_InitialDB.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105144515_InitialDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105144515_InitialDB.cs",
+              "ToolTip": "C:\\Users\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105144515_InitialDB.cs",
+              "RelativeToolTip": "..\\..\\..\\Andre\\OneDrive\\\u00C1rea de Trabalho\\ServidorProjeto\\ServidorProjeto\\Migrations\\20251105144515_InitialDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:45:16.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "StatusTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\enums\\StatusTarefas.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\enums\\StatusTarefas.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\enums\\StatusTarefas.cs",
+              "RelativeToolTip": "ServidorProjeto\\enums\\StatusTarefas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:58:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MercadoPagoOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Configurations\\MercadoPagoOptions.cs",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Configurations\\MercadoPagoOptions.cs",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Configurations\\MercadoPagoOptions.cs",
+              "RelativeToolTip": "ServidorProjeto\\Configurations\\MercadoPagoOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:24:01.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServidorProjeto\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Enzo\\Desktop\\ServidorProjeto\\ServidorProjeto\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServidorProjeto\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-04T23:23:54.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServidorProjeto",
+    "\\ServidorProjeto\\Controllers",
+    "\\ServidorProjeto\\Models",
+    "\\ServidorProjeto\\obj",
+    "\\ServidorProjeto\\Properties",
+    "\\ServidorProjeto\\repositories"
+  ],
+  "SelectedNode": "\\ServidorProjeto\\repositories\\UsuarioRepo.cs",
+  "PreviewInSolutionExplorer": false
+}

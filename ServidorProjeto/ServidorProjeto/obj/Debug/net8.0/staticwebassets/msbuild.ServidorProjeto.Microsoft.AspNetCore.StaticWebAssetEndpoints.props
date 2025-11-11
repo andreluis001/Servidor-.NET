@@ -1,0 +1,160 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads.5ipweew5fc.bkp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads.bkp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5ipweew5fc"},{"Name":"integrity","Value":"sha256-47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU="},{"Name":"label","Value":"_content/ServidorProjeto/uploads.bkp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads.bkp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads.bkp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"0"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002247DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.5zlt3bmhk7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5zlt3bmhk7"},{"Name":"integrity","Value":"sha256-gaPEPHpvk3RHlXVwXyoOcigIHgMdUsLkRsLCg0Urf80="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"174869"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022gaPEPHpvk3RHlXVwXyoOcigIHgMdUsLkRsLCg0Urf80=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\API_REST_com_Node,_Express_e_MySQL_-_Par_038ba78f-8242-421a-854a-1e632835f719.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gaPEPHpvk3RHlXVwXyoOcigIHgMdUsLkRsLCg0Urf80="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"174869"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022gaPEPHpvk3RHlXVwXyoOcigIHgMdUsLkRsLCg0Urf80=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_9f3ee5d4-f55f-4436-b3ad-626b25d4788e.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_9f3ee5d4-f55f-4436-b3ad-626b25d4788e.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 04:43:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_9f3ee5d4-f55f-4436-b3ad-626b25d4788e.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_9f3ee5d4-f55f-4436-b3ad-626b25d4788e.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andre\u0301_Luis_de_Sousa_Rodrigues_9f3ee5d4-f55f-4436-b3ad-626b25d4788e.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 04:43:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues_79a99827-97db-4334-b6da-bc5dca6dea5f.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_8688a33e-cee7-4bd1-b7ed-1f0ccad6acc5.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_8688a33e-cee7-4bd1-b7ed-1f0ccad6acc5.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_8688a33e-cee7-4bd1-b7ed-1f0ccad6acc5.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_8688a33e-cee7-4bd1-b7ed-1f0ccad6acc5.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues_8688a33e-cee7-4bd1-b7ed-1f0ccad6acc5.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues_ad320479-be2a-4634-a9c5-1f920714c1ee.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues__336f2e28-ac0e-4a81-8a8c-fa3d6c484223.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues__37afd815-b9fe-44a8-b65c-5da74da47abe.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues__3baf1426-008a-4e6d-9fcb-674f4827b91f.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues__8787f181-06d1-45fc-bd04-c6eda3acd6cd.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.uew3i4a8se.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Curriculo_André_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uew3i4a8se"},{"Name":"integrity","Value":"sha256-KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Curriculo_Andr\u00E9_Luis_de_Sousa_Rodrigues__e4395430-7ad3-4629-9c17-3f3a1250980d.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"195877"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022KreIfWYHwQjAVC7L5uu4f7Bn0ZEVEqc77CXvzvNt8Ng=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.306zgn6pim.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"306zgn6pim"},{"Name":"integrity","Value":"sha256-3YrfE/bUxR3tqAlFlB3Q38hlFmKZHd8mjIeBjQ8xT88="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Ebook_-_Aula_3_\u2013_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"255013"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00223YrfE/bUxR3tqAlFlB3Q38hlFmKZHd8mjIeBjQ8xT88=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Ebook_-_Aula_3_–_Flexbox_c1be3fad-c5e8-4a98-a527-f78940f2f8ea.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3YrfE/bUxR3tqAlFlB3Q38hlFmKZHd8mjIeBjQ8xT88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"255013"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00223YrfE/bUxR3tqAlFlB3Q38hlFmKZHd8mjIeBjQ8xT88=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xoranEVyHo61kLgylPjxPU2FrfUgE8PInnQmgiW81ZU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"248442"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022xoranEVyHo61kLgylPjxPU2FrfUgE8PInnQmgiW81ZU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServidorProjeto/uploads/Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.uv4ywedxm9.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Ebook_—_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uv4ywedxm9"},{"Name":"integrity","Value":"sha256-xoranEVyHo61kLgylPjxPU2FrfUgE8PInnQmgiW81ZU="},{"Name":"label","Value":"_content/ServidorProjeto/uploads/Ebook_\u2014_CSS_Base,_Flex_e_Grid_450d2069-a195-4178-9738-bf58ce976a44.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"248442"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022xoranEVyHo61kLgylPjxPU2FrfUgE8PInnQmgiW81ZU=\u0022"},{"Name":"Last-Modified","Value":"Mon, 10 Nov 2025 03:56:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
